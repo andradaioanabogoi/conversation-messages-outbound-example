@@ -2,7 +2,9 @@
 
 This application allows you to receive inbound messages from Facebook users to your Facebook Page and persists the events in a conversation named `my_conversation`.
 
-It adds messages capabilities to your nexmo application and configures the `Inbound URL` and `Status URL` webhooks.
+## Capabilities 
+
+Adds Messages capability to your nexmo application and configures the `Inbound URL` and `Status URL` webhooks (`messagesInbound` and `messagesStatus` in `index.js`).
 
 ## Linking a Facebook page
 
