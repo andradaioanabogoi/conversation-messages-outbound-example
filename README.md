@@ -17,6 +17,8 @@ To link a FB page to your application:
 
 ## To run the server
 
+Pre-requisite: node version >= 14 `nvm use 14`
+
 `npm start | bunyan`
 
 ## Endpoints
